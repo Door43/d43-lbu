@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lbu:home|Door43 (lbu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lbu|d43-lbu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lbu/archive/master.zip|d43-lbu.zip]]
+
+**Recent Changes**
+{{changes>ns = lbu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lbu|Ethnologue data]]
+
